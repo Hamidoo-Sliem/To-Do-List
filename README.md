@@ -1,15 +1,13 @@
 ## instructions to set up and run the  application
 
-<p align="center">
- - after git clone the project . run "composer install"
- - create  .env file 
- - create app key with : "php artisan key:generate"
- - set up your DB 
- - run "php artisan migrate"
- - run "php artisan db:seed" . for sample categories,statuses,users
- - run desktop app from path : {{domain}}/  or  {{domain}}/task
- - run REST api from path in postman :  {{URL}}/api/v1/{{path}}
-</p>
+ - after git clone the project . run "composer install".
+ - create  .env file .
+ - create app key with : "php artisan key:generate".
+ - set up your DB .
+ - run "php artisan migrate".
+ - run "php artisan db:seed" . for sample categories,statuses,users.
+ - run desktop app from path : {{domain}}/  or  {{domain}}/task.
+ - run REST api from path in postman :  {{URL}}/api/v1/{{path}}.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
